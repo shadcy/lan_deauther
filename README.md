@@ -17,7 +17,7 @@ To get started with the script, simply clone the repository and ensure that you 
 
 <h1>bash</h1>
 Copy code
-git clone https://github.com/yourusername/wifi-deauth-script.git
+git clone https://github.com/yourusername/wifi-deauth-script.git](https://github.com/ShreyashWanjari/Auto-Deauth.git
 cd wifi-deauth-script
 chmod +x deauth.sh
 ./deauth.sh
