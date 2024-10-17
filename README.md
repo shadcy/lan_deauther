@@ -1,4 +1,4 @@
-# Auto-Deauth
+# Auto-Deauth V2.2.0
 
 <h1>Auto Deauther : Wifi Deauthentication </h1>
 
